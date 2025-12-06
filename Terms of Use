@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width'>
+    <title>Terms &amp; Conditions - Smart Recorder Notes</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            padding: 1em;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Terms &amp; Conditions</h2>
+    <p>
+        By downloading or using the app, these terms will automatically apply to you – you should make sure therefore
+        that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the
+        app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you
+        also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and
+        all the trade marks, copyright, database rights, and other intellectual property rights related to it, still
+        belong to the developer.
+    </p>
+
+    <h3>1. Use of AI Transcription</h3>
+    <p>
+        The "Smart Recorder Notes" app uses Artificial Intelligence (AI) to transcribe audio. While we strive for high
+        accuracy, AI transcription may contain errors or inaccuracies. The transcribed text is provided "as is" and
+        should not be relied upon as a completely accurate record of the audio. The developer is not responsible for any
+        misunderstandings or damages resulting from errors in transcription.
+    </p>
+
+    <h3>2. Premium Subscriptions & Billing</h3>
+    <p>
+        The app offers a Premium version (via Google Play Billing) which removes advertisements.
+    <ul>
+        <li>Payments will be charged to your Google Play Account at confirmation of purchase.</li>
+        <li>One-time purchases (Lifetime) are valid indefinitely on the account used for purchase.</li>
+    </ul>
+    </p>
+
+    <h3>3. User Data and Privacy</h3>
+    <p>
+        All audio recordings and transcriptions are stored locally on your device. The developer does not have access to
+        your personal recordings or transcripts. It is your responsibility to back up your data. We are not liable for
+        any data loss due to device failure or app uninstallation.
+    </p>
+
+    <h3>4. Third-Party Services</h3>
+    <p>
+        The app uses third-party services (Google AdMob) that declare their own Terms and Conditions.
+    <ul>
+        <li><a href="https://policies.google.com/terms" target="_blank">Google Play Services</a></li>
+        <li><a href="https://developers.google.com/admob/terms" target="_blank">AdMob</a></li>
+    </ul>
+    </p>
+
+    <h3>5. Changes to This Terms and Conditions</h3>
+    <p>
+        We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically
+        for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page.
+    </p>
+
+    <h3>Contact Us</h3>
+    <p>
+        If you have any questions or suggestions about the Terms and Conditions, do not hesitate to contact the
+        developer.
+    </p>
+</body>
+
+</html>
